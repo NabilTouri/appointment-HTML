@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.header{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.hero_screen{
+    min-height: 70vh;
+}
+
+.table_container{
+    margin-bottom: 7vh;
+}
